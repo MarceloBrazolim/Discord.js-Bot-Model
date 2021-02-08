@@ -1,0 +1,29 @@
+{
+  "name": "discord.js-bot-base",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarceloMarchezini/Discord.js-Bot-Base.git"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "setup",
+    "base",
+    "model"
+  ],
+  "author": "Marcelo Marchezini aka. Hiro F.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarceloMarchezini/Discord.js-Bot-Base/issues"
+  },
+  "homepage": "https://github.com/MarceloMarchezini/Discord.js-Bot-Base#readme",
+  "dependencies": {
+    "discord.js": "^12.5.1"
+  }
+}
